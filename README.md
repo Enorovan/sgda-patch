@@ -9,7 +9,7 @@ It's a collection of three *STEINS;GATE* visual that initially released on Ninte
 
 ## Why are you making this?
 
-As previously mentioned, this collection received no localization, despite all three games being individually localized. *STEINS;GATE: My Darling's Embrace* and *STEINS;GATE 0* even received digital Switch ports on December 12th, 2019! So I thought I might as well localize it myself.
+As previously mentioned, this collection received no localization, despite all three games being individually localized. *STEINS;GATE: My Darling's Embrace* and *STEINS;GATE 0* even received digital Switch ports on December 12th, 2019! So I thought I might as well localize it myself. And on top of that, *STEINS;GATE: Linear Bounded Phenogram* on Switch, in English, is now a thing!
 
 ## How does this work?
 
@@ -34,9 +34,17 @@ Plug the micro SD card you used to put custom firmware on your Switch into your 
 
 ## Known issues
 
-* The font isn't pretty: I can't do much about that with my current knowledge, it might change later.
 * The manual isn't translated: It just doesn't exist in a translated form for any of the games and it clearly would be too much of a timesink for not much.
-* The *STEINS;GATE 0* tip menu still uses the Japanese asset: I had to, as any other solution would either break the menu completely or cause weird visual inconsistencies.
+
+## Report issues
+
+* If the issue you want to report is an “overflowing text issue,” head to issue number [#1](https://github.com/Enorovan/sgda-patch/issues/1).
+* If it is another kind of issue, head to issue number [#2](https://github.com/Enorovan/sgda-patch/issues/2). Be sure it is not present in the known issues before reporting.
+
+
+## Future of the projact
+
+* Whenever we, the Committee of Zero, will get around doing patches for *STEINS;GATE: My Darling's Embrace* and *STEINS;GATE: Linear Bounded Phenogram*, this patch will, for sure, receive updates that will include those fixes.
 
 ## Special thanks
 
