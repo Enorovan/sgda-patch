@@ -47,7 +47,7 @@ Plug the micro SD card you used to put custom firmware on your Switch into your 
 
 ## Future of the projact
 
-* Whenever we, the Committee of Zero, will get around doing patches for *STEINS;GATE: My Darling's Embrace* and *STEINS;GATE: Linear Bounded Phenogram*, this patch will, for sure, receive updates that will include those fixes.
+* Whenever the Committee of Zero gets around doing patches for *STEINS;GATE: My Darling's Embrace* and *STEINS;GATE: Linear Bounded Phenogram*, this patch will, for sure, receive updates that will include those fixes.
 
 ## Special thanks
 
