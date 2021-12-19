@@ -34,7 +34,8 @@ Plug the micro SD card you used to put custom firmware on your Switch into your 
 
 ## Known issues
 
-* The manual isn't translated: It just doesn't exist in a translated form for any of the games and it clearly would be too much of a timesink for not much.
+* Some of the RaiNet summaries in *STEINS;GATE: My Darling's Embrace* do not display properly: this is because of the page size being too small in the Japanese version, can't do much about it.
+* The mail list for both *STEINS;GATE: My Darling's Embrace* and *STEINS;GATE: Linear Bounded Phenogram* do not display the actual characters' portraits, nothing to be done either—these menus remains fully functional otherwise.
 
 ## Report issues
 
