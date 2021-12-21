@@ -36,8 +36,7 @@ Plug the micro SD card you used to put custom firmware on your Switch into your 
 
 ## Known issues
 
-* Some of the RaiNet summaries in *STEINS;GATE: My Darling's Embrace* do not display properly: this is because of the page size being too small in the Japanese version, can't do much about it.
-* The mail list for both *STEINS;GATE: My Darling's Embrace* and *STEINS;GATE: Linear Bounded Phenogram* do not display the actual characters' portraits, nothing to be done either—these menus remains fully functional otherwise.
+* Some of the RaiNet summaries in *STEINS;GATE: My Darling's Embrace* do not display properly: this is because of the page size being too small in the Japanese version, can't do much about it, however do know that they are the exact same as in the original *STEINS;GATE*.
 
 ## Report issues
 
@@ -45,6 +44,6 @@ Plug the micro SD card you used to put custom firmware on your Switch into your 
 * If it is another kind of issue, head to issue number [#2](https://github.com/Enorovan/sgda-patch/issues/2). Be sure it is not present in the known issues before reporting.
 
 
-## Future of the projact
+## Future of the project
 
-* Whenever the Committee of Zero gets around doing patches for *STEINS;GATE: My Darling's Embrace* and *STEINS;GATE: Linear Bounded Phenogram*, this patch will, for sure, receive updates that will include those fixes.
+* Whenever the Committee of Zero gets around doing patches for *STEINS;GATE: My Darling's Embrace* and *STEINS;GATE: Linear Bounded Phenogram*, this patch will, of course, receive updates that will include those fixes.
