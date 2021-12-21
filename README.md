@@ -4,7 +4,7 @@
 
 ## What is *STEINS;GATE: Divergencies Assort*?
 
-It's a collection of three *STEINS;GATE* visual that initially released on Nintendo Switch on March 19th, 2019 in Japan. It contains:
+It's a collection of three *STEINS;GATE* visual novels that initially released on Nintendo Switch on March 19th, 2019 in Japan. It contains:
 * *STEINS;GATE: My Darling's Embrace*
 * *STEINS;GATE: Linear Bounded Phenogram*
 * *STEINS;GATE 0*
