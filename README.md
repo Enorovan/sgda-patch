@@ -11,7 +11,7 @@ It's a collection of three *STEINS;GATE* visual novels that initially released o
 
 ## Why are you making this?
 
-As previously mentioned, this collection received no localization, despite all three games being individually localized. *STEINS;GATE: My Darling's Embrace* and *STEINS;GATE 0* even received digital Switch ports on December 12th, 2019! So I thought I might as well localize it myself. And on top of that, *STEINS;GATE: Linear Bounded Phenogram* on Switch, in English, is now a thing!
+As previously mentioned, this collection received no localization, despite all three games being individually localized. *STEINS;GATE: My Darling's Embrace* and *STEINS;GATE 0* even received digital Switch ports in English on December 10th, 2019! So I thought I'd release the full package in English myself. Which means that *STEINS;GATE: Linear Bounded Phenogram* on Switch and in English, is now a thing!
 
 ## How does this work?
 
@@ -32,7 +32,7 @@ Once you have all of that set up, let us see what this patch does:
 
 ## How do I install it?
 
-Plug the micro SD card you used to put custom firmware on your Switch into your PC, or use a File Transfer Program of your liking paired with one of the Homebrew tools, and then drag and drop the `atmosphere` folder in the archive containing the patch on your micro SD root. And that's it!
+First, download the latests release [here](https://github.com/Enorovan/sgda-patch/releases). Plug the micro SD card you used to put custom firmware on your Switch into your PC, or use a File Transfer Program of your liking paired with one of the Homebrew tools, and then drag and drop the `atmosphere` folder in the archive containing the patch on your micro SD root. And that's it!
 
 ## Known issues
 
