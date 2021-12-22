@@ -1,6 +1,6 @@
 # STEINS;GATE: Divergencies Assort English Patch
 
-https://user-images.githubusercontent.com/68027106/146678063-cb9c5bd8-a121-41e7-9728-6a56dc4f8b84.png
+![Divergencies Assort](https://user-images.githubusercontent.com/68027106/146678063-cb9c5bd8-a121-41e7-9728-6a56dc4f8b84.png)
 
 ## What is *STEINS;GATE: Divergencies Assort*?
 
